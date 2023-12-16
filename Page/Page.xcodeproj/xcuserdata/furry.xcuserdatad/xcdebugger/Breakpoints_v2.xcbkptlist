@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "779B6F9C-CCF1-407D-A9E7-C761F0F84859"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B9FC9FC-B24E-439A-BE32-9C51BF7A8C2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Page/ChatgptRefactorViewcontroller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C70427A2-DE25-4E37-B66C-958E3CE8150D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Page/ChatgptRefactorContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "searchInPDF()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C70427A2-DE25-4E37-B66C-958E3CE8150D - 6225ccc8fbbdb12c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Page.ContentView.searchInPDF() -&gt; ()"
+                  moduleName = "Page"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/furry/Documents/app%20development/Page/Page/ChatgptRefactorContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "2984">
+               </Location>
+               <Location
+                  uuid = "C70427A2-DE25-4E37-B66C-958E3CE8150D - 6225ccc8fbbdb12c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Page.ContentView.searchInPDF() -&gt; ()"
+                  moduleName = "Page"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/furry/Documents/app%20development/Page/Page/ChatgptRefactorContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "3096">
+               </Location>
+               <Location
+                  uuid = "C70427A2-DE25-4E37-B66C-958E3CE8150D - 6225ccc8fbbda7d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Page.ContentView.searchInPDF() -&gt; ()"
+                  moduleName = "Page"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/furry/Documents/app%20development/Page/Page/ChatgptRefactorContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
